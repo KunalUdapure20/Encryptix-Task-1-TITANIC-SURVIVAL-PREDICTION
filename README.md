@@ -1,3 +1,9 @@
+#### Name - KUNAL UDAPURE
+#### Company - Encryptix IT Services and IT Consulting
+#### ID - EXM166135
+#### Domain - DATA SCIENCE INTERN
+#### Duration - 22 June 2024 to 22 July 2024.
+
 ### Project Overview: Titanic Survival Prediction
 ![tt](https://github.com/user-attachments/assets/23af2eee-9753-48f2-a746-d1c62031682e)
 
